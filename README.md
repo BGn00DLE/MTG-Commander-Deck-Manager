@@ -10,3 +10,6 @@ Python based Magic The Gathering deck manager that allows users to create, organ
 - Pyhon
 - Tkinter for the GUI
 - JSON for local data storage
+
+## Development Status
+This Project is currently in the planning phase for CS361 - Software Engineering
