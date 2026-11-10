@@ -1,0 +1,22 @@
+{
+    "Sultai Reanimator": {
+        "commander": "Teval, The Blessed Scale",
+        "cards": {
+            "Sol Ring": 1,
+            "Command Tower": 1,
+            "Acane Signet": 1
+        }
+    },
+    "Enchantress": {
+        "commander": "Eriette of the Charmed Apple",
+        "cards": {}
+    },
+    "Twink Oppenheimer": {
+        "commander": "The Emporer of Palamacia",
+        "cards": {}
+    },
+    "I Kill My Creatures": {
+        "commander": "Garna, Bloodscourge",
+        "cards": {}
+    }
+}
